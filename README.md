@@ -8,15 +8,12 @@
 
 stuff on here:
 
-- 
-- 
+- games
+- proxys
 - 
 - 
 -
-- 
-- 
-- 
-- 
+
 
 ## 
 
