@@ -2,7 +2,7 @@
   <img src='https://ibb.co/VjJHkCS' alt='picture' width='600'/>
 </p>
 
-# Prxy
+# Welcome to Prxy01
 
 [![]()]()
 
@@ -18,13 +18,12 @@ stuff on here:
 - 
 - 
 
-## Getting Started
+## 
 
-Scaffold this repository
+Hi im theprxy
 
 ```sh
-pnpx degit lecoueyl/vue3-template my-project
-cd my-project
+play my gmes on the website
 ```
 
 Install and start dev server
@@ -38,7 +37,7 @@ pnpm run dev
 
 ### Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lecoueyl/vue3-template)
+[![]()
 
 ### Github pages
 
